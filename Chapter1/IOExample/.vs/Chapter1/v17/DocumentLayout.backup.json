@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elija\\OneDrive\\Documents\\cpp\\cppPrimer\\Chapter1\\IOExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{108092F1-8D71-4BD6-B0F9-A80219054F51}|..\\UnknownNumberOfInputs\\UnknownNumberOfInputs.vcxproj|C:\\Users\\elija\\OneDrive\\Documents\\cpp\\cppPrimer\\Chapter1\\UnknownNumberOfInputs\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04FFBC81-57CD-4AA3-A4CD-0F71021C78B5}|..\\Exercise1.11\\Exercise1.11.vcxproj|C:\\Users\\elija\\OneDrive\\Documents\\cpp\\cppPrimer\\Chapter1\\IOExample\\Exercise1.11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{04FFBC81-57CD-4AA3-A4CD-0F71021C78B5}|..\\Exercise1.11\\Exercise1.11.vcxproj|solutionrelative:Exercise1.11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\elija\\OneDrive\\Documents\\cpp\\cppPrimer\\Chapter1\\UnknownNumberOfInputs\\main.cpp",
+              "RelativeDocumentMoniker": "..\\UnknownNumberOfInputs\\main.cpp",
+              "ToolTip": "C:\\Users\\elija\\OneDrive\\Documents\\cpp\\cppPrimer\\Chapter1\\UnknownNumberOfInputs\\main.cpp",
+              "RelativeToolTip": "..\\UnknownNumberOfInputs\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-05T01:25:52.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exercise1.11.cpp",
+              "DocumentMoniker": "C:\\Users\\elija\\OneDrive\\Documents\\cpp\\cppPrimer\\Chapter1\\IOExample\\Exercise1.11.cpp",
+              "RelativeDocumentMoniker": "Exercise1.11.cpp",
+              "ToolTip": "C:\\Users\\elija\\OneDrive\\Documents\\cpp\\cppPrimer\\Chapter1\\IOExample\\Exercise1.11.cpp",
+              "RelativeToolTip": "Exercise1.11.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-05T01:20:38.911Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
